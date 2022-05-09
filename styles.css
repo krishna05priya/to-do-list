@@ -1,0 +1,24 @@
+.task-container {
+    background-color: #f2f2f2;
+    width: 40%;
+    height: 500px;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+  }
+  .complete-btn {
+    background-color: #6666ff;
+    color: white;
+    border: 0px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .task-card {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
